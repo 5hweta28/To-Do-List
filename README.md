@@ -7,4 +7,4 @@ Features:
 - Add tasks to your to-do list
 - Remove completed tasks
 
-![Uploading image.png…]()
+![image](https://github.com/5hweta28/To-Do-List/assets/113817351/14e6169f-c59c-448b-bb44-0b8daecb3224)
