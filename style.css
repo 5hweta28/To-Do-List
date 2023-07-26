@@ -1,0 +1,44 @@
+body{
+    height: 100vh;
+    background: linear-gradient(to right, #44318D, #2A1B3D);
+}
+.container{
+    max-width: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 30px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-weight: bold;
+  }
+.container h1{
+  color: #2A1B3D;
+  font-weight: bold;
+   text-decoration: underline #2A1B3D;
+   font-family: "Lucida Console", "Courier New", monospace;
+}
+.container label{
+  color: #2A1B3D;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.input-field{
+    text-align: center;
+}
+input[type="text"]{
+    color: #fff;
+    border: none;
+    background-color: #D6CDEA;
+    max-width: 400px;
+}
+.todos li{
+    background-color: #fff;
+    color: #2A1B3D;
+    font-weight: bold;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.delete{
+    cursor: pointer;
+    color: crimson;
+}
